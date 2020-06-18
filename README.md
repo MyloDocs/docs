@@ -6,7 +6,7 @@ There are a few things needed to create your first Documentation Site. You need 
 
 ## Versioning 
 
-Mylodocs will only include GitHub branches that start with `v`. So for version `1.2` there would be a branch called `v1.2`.
+Mylodocs will only include GitHub branches that start with `version-`. So for version `1.2` there would be a branch called `version-1.2`.
 
 
 
@@ -37,6 +37,6 @@ Anything in `DIGEST.md` will be displayed in the menu. Make sure you're links ar
 
 #### Version Overview
 
-One more file you must have in the root of your repo is `_index.md`. This is the markdown file that will get rendered as a summary for your version. It's the file that gets render at `https://subdomain.mylodocs.com/docsitename/v1/` This should contain overview information. 
+One more file you must have in the root of your repo is `_index.md`. This is the markdown file that will get rendered as a summary for your version. It's the file that gets render at `https://subdomain.mylodocs.com/docsitename/1.0/` This should contain overview information. 
 
 There are a few things you need to remember. Mylodocs will ignore anything that starts with a `.` such as `.gitignore`.
