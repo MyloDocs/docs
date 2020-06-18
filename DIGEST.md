@@ -1,4 +1,6 @@
 ##    
 * [Overview](_index.md)
-* [First](first.md)
+
+## GitHub Structure
+* [Versioning](Versioning.md)
 
