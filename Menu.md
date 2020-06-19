@@ -1,4 +1,4 @@
-#### Menu
+## Menu
 
 To set up your menu you need to have a file called `DIGEST.md` in the root of your repo. If you created your docs with an empty GitHub repo we would have already created this file for you.
 
