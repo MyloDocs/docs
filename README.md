@@ -16,10 +16,10 @@ In order to have the best looking documentation site your github needs to contai
 
 #### Menu
 
-To set up your menu you need to have a file called `DIGEST.md` in the root of your repo. It should be structured like below. I would suggest your first item be the Overview like below. See the next section about the `_index.md` file. 
+To set up your menu you need to have a file called `DIGEST.md` in the root of your repo. It should be structured like below. I would suggest your first item be the Overview like below. See the next section about the `README.md` file. 
 
 ```markdown
-* [Overview](_index.md)
+* [Overview](README.md)
 
 ## Prologue
 
@@ -33,10 +33,10 @@ To set up your menu you need to have a file called `DIGEST.md` in the root of yo
 * [Github](https://github.com)
 ```
 
-Anything in `DIGEST.md` will be displayed in the menu. Make sure you're links are correct. 
+Anything in `DIGEST.md` will be displayed in the menu. Make sure your links are correct. 
 
 #### Version Overview
 
-One more file you must have in the root of your repo is `_index.md`. This is the markdown file that will get rendered as a summary for your version. It's the file that gets render at `https://subdomain.mylodocs.com/docsitename/1.0/` This should contain overview information. 
+One more file you must have in the root of your repo is `README.md`. This is the markdown file that will get rendered as a summary for your version. It's the file that gets render at `https://subdomain.mylodocs.com/docsitename/1.0/` This should contain overview information. 
 
 There are a few things you need to remember. Mylodocs will ignore anything that starts with a `.` such as `.gitignore`.

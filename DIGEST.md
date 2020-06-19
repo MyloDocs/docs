@@ -3,4 +3,5 @@
 
 ## GitHub Structure
 * [Versioning](Versioning.md)
+* [Menu](Menu.md)
 
