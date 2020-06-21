@@ -12,5 +12,5 @@ In order to use MyloDocs you first must have a GitHub repository. You can use an
 
 #### Create A New Documentation Site
 
-Head over to [MyloDocs](https://app.mylodocs.com) and login. Click the `New Doc` button which should bring up the create wizard. Step through the wizard and that will create your documentation site. And that's it. You have your first doc site up and running. 
+Head over to [MyloDocs](https://app.mylodocs.com) and login. Click the `New Doc` button which should bring up the create wizard. Add a name for you documentation site. The next step is to link up with your GitHub Repo. Finish up in the wizard and that will create your documentation site. And that's it. You have your first doc site up and running. All you have to do now is update your markdown files in GitHub and the changes will automatically be built.
 
